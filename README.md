@@ -6,7 +6,7 @@ No JavaScript required 🚀
 
 Each project is lightweight, easy to understand, and perfect for beginners and frontend enthusiasts.  
 
-------
+-----
 
 ## 🌟 What's inside?
 This repo is a growing lab of small web design experiments, such as:
@@ -16,4 +16,4 @@ This repo is a growing lab of small web design experiments, such as:
 - 🔐 **Login forms** — clean and minimal authentication UIs
 - ➕ And more mini UI snippets...
 
-------
+-----
