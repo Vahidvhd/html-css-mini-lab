@@ -30,6 +30,7 @@ body {
     animation: rotate 4s linear infinite;
 }
 
+
 .card::after {
     content: "";
     position: absolute;
