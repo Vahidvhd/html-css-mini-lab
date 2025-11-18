@@ -6,7 +6,6 @@ body {
     background: #000;
 }
 
-
 .card {
     color: #fff;
     font-size: 2rem;
@@ -18,7 +17,6 @@ body {
     transition: all 400ms ease;
     overflow: hidden;
 }
-
 
 .card::before {
     content: "";
